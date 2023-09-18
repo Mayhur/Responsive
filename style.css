@@ -1,0 +1,24 @@
+.l{width:30px;
+color:#6f42c1}
+.navbar-brand{color:#683AA4;
+font-weight:bolder;
+font-size:24px;
+}
+.i li a{font-size:22px;
+}
+.n{margin-top:180px}
+.two{color:#683AA4;
+font-weight:bolder}
+.k{width:550px}
+#id{color:#683AA4;
+}
+.kk{color:#683AA4;
+font-weight:bolder;}
+.nn{font-weight:bolder;
+color:#683AA4;}
+.iii{background: #683AA4;}
+.jj{font-weight:bolder}
+.hi{width:100%;}
+@media screen and (max-width: 800px) {
+.n{margin-top:0px}
+}
